@@ -1,5 +1,5 @@
 #!/bin/bash
-sh echo "Testing..."
-sh pwd
-sh touch testfile.txt
-sh ls -l
+echo "Testing..."
+pwd
+touch testfile.txt
+ls -l
